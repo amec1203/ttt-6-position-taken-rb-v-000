@@ -1,3 +1,8 @@
 def position_taken?(board, index)
-  false
+  if
+    false
+  elsif 
+    true
+  else
+  end
 end
